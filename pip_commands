@@ -1,0 +1,14 @@
+Use these PIP commands if installing from requirements.txt fails
+================================================================
+
+pip install langchain-core==0.3.6
+pip install langchain-openai==0.2.1
+pip install langchain-experimental==0.3.2
+pip install langchain-community==0.3.1
+pip install langchain==0.3.1
+pip install chromadb==0.5.11
+pip install PyPDF2==3.0.1 -q --user
+pip install rank_bm25==0.2.2
+pip install ragas==0.1.20
+pip install tqdm==4.66.5 -q --user
+pip install matplotlib==3.9.2
